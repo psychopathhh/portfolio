@@ -1,7 +1,6 @@
 import React from 'react'
 import './about.css'
 import ME from '../../assets/me-about.jpg'
-import { Icon28AddAwardOutline, Icon28Users3Outline, Icon28WorkOutline } from '@vkontakte/icons';
 import { aboutCards } from '../../constants';
 
 const About = () => {
